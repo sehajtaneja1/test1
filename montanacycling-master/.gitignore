@@ -1,0 +1,16 @@
+config/database.yml
+config/environment.rb
+*~
+*.log
+*.cache
+*.pid
+tmp/**/*
+.DS\_Store
+doc/api
+doc/app
+doc/plugins
+nbproject/*
+montanacycling.tmproj
+public/dispatch.fcgi
+public/dispatch.cgi
+public/documents/*
